@@ -120,4 +120,4 @@ A. Digital Marketing:
   consistent approach to building brand trust, offering value, and ensuring high user engagement.
   This plan should be evaluated and adjusted quarterly based on performance metrics and market conditions.
 
-Plan Design - ※YashGL
+Plan Design - ※YashGLad
