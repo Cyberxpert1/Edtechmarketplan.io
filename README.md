@@ -1,4 +1,4 @@
-※Ed-tech Marketplannning with Yash
+※Ed-tech Marketplannning with Yash Girish Lad
 
 Creating a marketing plan for an Ed-tech startup requires a well-rounded approach to *build awareness, drive engagement*, and convert leads into loyal users*. 
 Below is a detailed marketing plan tailored to the Ed-tech industry:
