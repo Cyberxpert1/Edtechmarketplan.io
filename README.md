@@ -2,14 +2,15 @@
 ![Profiling-edtech-India-Trends-Prospects](https://github.com/user-attachments/assets/d8427e8b-e5d2-46b2-b04c-4089daecd6a4)
 
 
-Creating a marketing plan for an Ed-tech startup requires a well-rounded approach to *build awareness, drive engagement*, and convert leads into loyal users*. 
+# Creating a marketing plan for an Ed-tech startup requires a well-rounded approach to build awareness, drive engagement*, and convert leads into loyal users. 
 
 Below is a detailed marketing plan tailored to the Ed-tech industry:
 
 ![Benefits-Of-EdTech-In-The-Classroom](https://github.com/user-attachments/assets/f103db91-9df9-4266-b3ae-7a0f8da6126f)
 
-   This marketing plan aims to launch and promote a new Ed-tech startup that provides innovative, scalable, and personalized learning solutions. The primary goal is to 
-   establish brand recognition, acquire users, and drive long-term retention through targeted marketing strategies.
+   This marketing plan aims to launch and promote a new Ed-tech 
+startup that provides innovative, scalable, and personalized learning solutions. The primary goal is to 
+establish brand recognition, acquire users, and drive long-term retention through targeted marketing strategies.
 
 1. Business Overview:
   Product/Service: A cutting-edge online platform offering personalized education through AI-driven content, interactive courses, and assessment tools. The platform 
@@ -101,16 +102,17 @@ A. Digital Marketing:
        Feature success stories and testimonials from students and professionals who have benefited from the platform.
        Share before-and-after case studies showcasing career advancements after completing courses.
 
-   ⁕7. Budget Allocation:
-      Digital Marketing:60%
-      Paid ads (Google Ads, Facebook Ads):30%
-      SEO & Content Marketing:20%
-      Social Media Marketing: 10%
-      Influencer & Affiliate Marketing (15%)
-      Events & Partnerships (10%)
-      Email Marketing (5%)
-      Community Building (5%)
-      Miscellaneous (5%)
+   ⁕7. Budget Allocation:-
+   
+    * Digital Marketing:60%
+    * Paid ads (Google Ads, Facebook Ads):30%
+    * SEO & Content Marketing:20%
+    * Social Media Marketing: 10%
+    * Influencer & Affiliate Marketing (15%)
+    * Events & Partnerships (10%)
+    * Email Marketing (5%)
+    * Community Building (5%)
+    * Miscellaneous (5%)
 
   ⁕8. Key Performance Indicators (KPIs):
       Lead Generation: Number of sign-ups, downloads, or free trial users.
@@ -119,9 +121,10 @@ A. Digital Marketing:
       Customer Acquisition Cost (CAC): Average cost spent on acquiring each user.
       Monthly Active Users (MAU): Engagement levels of users on the platform.
 
-  
-  This marketing plan sets the foundation for establishing a strong presence in the Ed-tech industry. By focusing on personalized, AI-driven education and using a        combination of digital, content, and partnership strategies, the startup is poised to gain recognition and attract a loyal user base. Key to success will be a       
-  consistent approach to building brand trust, offering value, and ensuring high user engagement.
-  This plan should be evaluated and adjusted quarterly based on performance metrics and market conditions.
+  ![Ed-Talks-Ed-Tech](https://github.com/user-attachments/assets/55f4c791-7f55-45aa-a7c1-52358c6d925a)
+
+  This marketing plan sets the foundation for establishing a strong presence in the Ed-tech industry. By focusing on personalized, AI-driven education and using a combination of digital, content, and partnership strategies, the startup is poised to gain recognition and attract a loyal user base. Key to success will be a       
+l consistent approach to building brand trust, offering value, and ensuring high user engagement.
+ This plan should be evaluated and adjusted quarterly based on performance metrics and market conditions.
 
 Plan Design - ※Ymanagement
