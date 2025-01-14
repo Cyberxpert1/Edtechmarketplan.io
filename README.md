@@ -1,4 +1,4 @@
-※Ed-tech Marketplannning with Yash Girish Lad
+※Ed-tech Marketplannning 
 ![values](https://github.com/user-attachments/assets/81f7251d-95c9-4b9f-9b13-7310c1805c7f)
 
 Creating a marketing plan for an Ed-tech startup requires a well-rounded approach to *build awareness, drive engagement*, and convert leads into loyal users*. 
@@ -121,4 +121,4 @@ A. Digital Marketing:
   consistent approach to building brand trust, offering value, and ensuring high user engagement.
   This plan should be evaluated and adjusted quarterly based on performance metrics and market conditions.
 
-Plan Design - ※YashGLad
+Plan Design - ※Ymanagement
