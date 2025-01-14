@@ -1,12 +1,13 @@
-※Ed-tech ![Benefits-Of-EdTech-In-The-Classroom](https://github.com/user-attachments/assets/b1f88ec4-bcb5-404d-aa82-23390ab54cc0)
+※Ed-tech
+![Profiling-edtech-India-Trends-Prospects](https://github.com/user-attachments/assets/d8427e8b-e5d2-46b2-b04c-4089daecd6a4)
 
 
 Creating a marketing plan for an Ed-tech startup requires a well-rounded approach to *build awareness, drive engagement*, and convert leads into loyal users*. 
-![Ed-Talks-Ed-Tech](https://github.com/user-attachments/assets/424e536f-f4fd-461f-ad3b-33d9c51e0462)
 
 Below is a detailed marketing plan tailored to the Ed-tech industry:
 
-⇉ Executive Summary:
+![Benefits-Of-EdTech-In-The-Classroom](https://github.com/user-attachments/assets/f103db91-9df9-4266-b3ae-7a0f8da6126f)
+
    This marketing plan aims to launch and promote a new Ed-tech startup that provides innovative, scalable, and personalized learning solutions. The primary goal is to 
    establish brand recognition, acquire users, and drive long-term retention through targeted marketing strategies.
 
