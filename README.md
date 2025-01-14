@@ -1,7 +1,9 @@
-※Ed-tech Marketplannning 
-![values](https://github.com/user-attachments/assets/81f7251d-95c9-4b9f-9b13-7310c1805c7f)
+※Ed-tech ![Benefits-Of-EdTech-In-The-Classroom](https://github.com/user-attachments/assets/b1f88ec4-bcb5-404d-aa82-23390ab54cc0)
+
 
 Creating a marketing plan for an Ed-tech startup requires a well-rounded approach to *build awareness, drive engagement*, and convert leads into loyal users*. 
+![Ed-Talks-Ed-Tech](https://github.com/user-attachments/assets/424e536f-f4fd-461f-ad3b-33d9c51e0462)
+
 Below is a detailed marketing plan tailored to the Ed-tech industry:
 
 ⇉ Executive Summary:
@@ -116,7 +118,7 @@ A. Digital Marketing:
       Customer Acquisition Cost (CAC): Average cost spent on acquiring each user.
       Monthly Active Users (MAU): Engagement levels of users on the platform.
 
-  ⁕9. Conclusion:
+  
   This marketing plan sets the foundation for establishing a strong presence in the Ed-tech industry. By focusing on personalized, AI-driven education and using a        combination of digital, content, and partnership strategies, the startup is poised to gain recognition and attract a loyal user base. Key to success will be a       
   consistent approach to building brand trust, offering value, and ensuring high user engagement.
   This plan should be evaluated and adjusted quarterly based on performance metrics and market conditions.
